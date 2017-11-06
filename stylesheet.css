@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Game of Thrones';
+    src: url('fonts\Game-of-Thrones.ttf');
+}
+
+header, h3, footer {
+    font-family: 'Game of Thrones';
+}
+
+header {
+    text-align: center;
+    margin: 100px 0px;
+    background-image: "catpainting.png";
+}
+
+main {
+    color: LightGray;
+    background-color: black;
+}
+
+.catbio {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#interlude {
+    font-family: 'Tangerine', cursive;
+    font-size: 36px;
+    text-align: center
+}
+
+.right {
+    text-align: right;
+    image-orientation: right;
+}
+
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+img {
+    padding: 10px 10px 0px;
+}
+
+article {
+    padding: 0px 10px;
+}
+
